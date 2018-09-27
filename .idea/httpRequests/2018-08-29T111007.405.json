@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-08-29T15:10:07.412+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'GET' not supported",
+  "path": "/parameter"
+}

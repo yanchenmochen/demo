@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-09-19T01:01:00.990+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'POST' not supported",
+  "path": "/http/get"
+}

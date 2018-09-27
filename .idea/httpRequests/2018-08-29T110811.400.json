@@ -1,7 +1,0 @@
-{
-  "timestamp": "2018-08-29T15:08:11.140+0000",
-  "status": 400,
-  "error": "Bad Request",
-  "message": "Required request body is missing: public java.lang.Object com.example.demo.RequestBodyTest.Parameter(javax.servlet.http.HttpServletRequest,java.lang.String)",
-  "path": "/parameter"
-}

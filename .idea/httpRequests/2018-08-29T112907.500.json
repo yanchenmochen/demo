@@ -1,7 +1,0 @@
-{
-  "timestamp": "2018-08-29T15:29:06.969+0000",
-  "status": 500,
-  "error": "Internal Server Error",
-  "message": "No message available",
-  "path": "/parameter1"
-}

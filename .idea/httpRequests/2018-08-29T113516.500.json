@@ -1,7 +1,0 @@
-{
-  "timestamp": "2018-08-29T15:35:16.252+0000",
-  "status": 500,
-  "error": "Internal Server Error",
-  "message": "java.lang.Integer cannot be cast to java.lang.String",
-  "path": "/parameter1"
-}
